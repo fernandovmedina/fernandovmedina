@@ -1,5 +1,4 @@
 # Hi there <img width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
----
 
 ## A little about me 
 ![Rocket icon](https://img.icons8.com/emoji/48/rocket-emji.png) Hey, I'm Fernando A. Vazquez M., proudly mexican, 19 years old, studing computer systems, i have 3 years of coding experience learning all by myself like most of us right, at the moment the most i code are whole web applications, like backend, frontend and apis to connect them, i will learn more about the cloud in golang and aws because it is the most used.
