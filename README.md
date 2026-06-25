@@ -2,7 +2,7 @@
 
 # Fernando A. Vazquez M. <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 
-**Fullstack Developer · Mobile Developer · Founder @ Neurovix**
+**Fullstack Developer · Mobile Developer · Founder @ Olmeware**
 
 *Computer Systems Engineering · TECNM, Campus Saltillo · 9th Semester*
 
