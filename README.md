@@ -19,7 +19,7 @@
 
 I'm a 21-year-old fullstack developer from Mexico, currently in my 9th semester of Computer Systems Engineering at TECNM Campus Saltillo. I build complete digital products — from pixel-perfect frontends and robust backends to mobile apps connected with external APIs and services.
 
-I'm also the founder of **[Neurovix](https://neurovix.com.mx)**, a growing software company where I've had the opportunity to deliver real mobile solutions to real clients.
+I'm also the founder of **OLMEWARE**, a growing software company where I've had the opportunity to deliver real mobile solutions to real clients.
 
 ---
 
