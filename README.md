@@ -61,28 +61,11 @@
 
 <div align="center">
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandovmedina&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0f0f0f)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandovmedina&layout=compact&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0f0f0f)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=fernandovmedina&hide_border=true&background=0f0f0f&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fernandovmedina&theme=onedark&no-frame=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandovmedina&hide_border=true&bg_color=0f0f0f&color=a855f7&line=a855f7&point=c9d1d9&area=true)
 
 </div>
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Fullstack Developer | **Roceel** | 2026 — Present |
-| Founder & Engineer | **Tindertec** | 2026 |
-| Founder | **OLMEWARE** *(formerly Neurovix)* | 2025 — Present |
-| Web Developer | **Cima Informatica** | 2023 — 2025 |
-| Software Developer | **SuperMarketML** | 2020 — 2023 |
 
 ---
 
@@ -93,14 +76,6 @@
 - 🎯 **4th Place** — Programming Challenge (Advanced), TECNM Saltillo — Python.
 - 🔟 **Top 10** — Programming Challenge (Beginner), first semester — Go.
 - 🌐 **Top 10** — Networking Challenge, industrial network simulation with Cisco Packet Tracer.
-
----
-
-## 🏢 OLMEWARE
-
-> **OLMEWARE** *(formerly Neurovix)* is a software company I founded, focused on modern mobile and web applications. We deliver production-ready solutions to real clients — traceability apps, ERPs, and web platforms for recycling, construction and CNC-machining businesses.
->
-> 🌐 [fernandovazquez.dev](https://fernandovazquez.dev)
 
 ---
 
