@@ -60,7 +60,7 @@ Backend-focused fullstack developer from Mexico, currently in my 10th semester o
 
 **DevOps & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,githubactions,vercel,git,github,postman,vscode" alt="DevOps and Tools" />
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,cloudflare,githubactions,vercel,git,github,postman,vscode" alt="DevOps and Tools" />
 <br>
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-API%20Testing-F4AA41?style=flat-square&logo=bruno&logoColor=white)
