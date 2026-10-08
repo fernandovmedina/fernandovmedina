@@ -84,6 +84,6 @@ Backend-focused fullstack developer from Mexico, currently in my 10th semester o
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=f-root&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=fernandovmedina&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
 </div>
