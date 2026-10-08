@@ -86,6 +86,4 @@ Backend-focused fullstack developer from Mexico, currently in my 10th semester o
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=f-root&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=f-root&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true)
-
 </div>
