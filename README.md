@@ -2,7 +2,7 @@
 
 # Fernando Vazquez
 
-**Fullstack Developer · Networking & Linux Servers · Founder @ NEUROVIX**
+**Fullstack Developer · Networking & Linux Servers · Founder @ Neurovix**
 
 Computer Systems Engineering · TECNM Campus Saltillo · 10th Semester
 <br>
@@ -23,7 +23,7 @@ Saltillo, Coahuila, Mexico
 
 Backend-focused fullstack developer from Mexico, currently in my 10th semester of Computer Systems Engineering at **TECNM Campus Saltillo**.
 
-- Founder of **OLMEWARE**, a software company shipping production mobile and web apps to real clients.
+- Founder of **Neurovix**, a software company shipping production mobile and web apps to real clients.
 - Building a full **ERP** at **Roceel** — clients, inventory, and employee attendance with facial recognition.
 - Experienced in deploying and maintaining **Linux servers** and designing **network infrastructure**.
 - I build complete digital products: polished frontends, robust Go backends, and mobile apps wired to real APIs.
