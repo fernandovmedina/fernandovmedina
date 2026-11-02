@@ -2,7 +2,7 @@
 
 # Fernando Vazquez
 
-**Fullstack Developer · Networking & Linux Servers · Founder @ OLMEWARE**
+**Fullstack Developer · Networking & Linux Servers · Founder @ NEUROVIX**
 
 Computer Systems Engineering · TECNM Campus Saltillo · 10th Semester
 <br>
